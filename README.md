@@ -19,14 +19,6 @@ API REST em Node.js e Express para consulta de livros e gerenciamento de resenha
 
 O arquivo `general.js` contém as consultas aos livros com chamadas assíncronas.
 
-## Como rodar
-
-1. Tenha o Node.js instalado
-2. Clone o repositório
-3. Entre na pasta `final_project` e rode `npm install`
-4. Inicie com `node index.js`
-5. Teste as rotas com cURL ou Postman
-
 ## O que pratiquei
 
 - Criação de rotas com Express
